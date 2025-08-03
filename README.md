@@ -1,5 +1,4 @@
 # Privacy-Scanner-Application-On-Android
-Privacy scanner for Android
 A privacy scanner android app. That scans through all your android system and show privacy status.
 
 Some screenshots attached here for ref.
