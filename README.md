@@ -12,9 +12,11 @@ Fig: 1.2 Scan Screen
 
 Home screen
 Fig: 1.3 Home screen after finish scanning
+
+
 Features of the application
 
-User Installs the application
+    User Installs the application
 
     User taps on the app icon.
 
