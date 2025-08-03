@@ -1,18 +1,17 @@
 # Privacy-Scanner-Application-On-Android
 Privacy scanner for Android
-A privacy scanner android app. That scanns through all your android system and show privacy status in a stupid simple way.
+A privacy scanner android app. That scans through all your android system and show privacy status.
 
 Some screenshots attached here for ref.
 
-Splash screen
 Fig: 1.1 Splash Screen with customized icon
+![splash-screen](https://github.com/user-attachments/assets/f4792071-f46f-4176-ba48-73647817c85a)
 
-Scan screen
 Fig: 1.2 Scan Screen
+![scan-screen](https://github.com/user-attachments/assets/f68c9102-fb5a-4853-8ae8-9c846cdf2302)
 
-Home screen
 Fig: 1.3 Home screen after finish scanning
-
+![home-screen](https://github.com/user-attachments/assets/5a25a69e-2592-4f24-b9e9-47e20d6d29a3)
 
 Features of the application
 
